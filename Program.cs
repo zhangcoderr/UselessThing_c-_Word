@@ -210,19 +210,12 @@ namespace ConsoleApplication1
             {
                 case ProjectType.市政:
                     {
-                        dataDic.Add(EnumBookMark.负责人.ToString(), "林小东");
-                        dataDic.Add(EnumBookMark.负责人证书.ToString(), " 二级建造师证/浙233131283587");
-                        dataDic.Add(EnumBookMark.负责人专业.ToString(), "市政公用工程");
-                        
 
 
                     }
                     break;
                 case ProjectType.建筑:
                     {
-                        dataDic.Add(EnumBookMark.负责人.ToString(), "吴敏");
-                        dataDic.Add(EnumBookMark.负责人证书.ToString(), " 二级建造师证/浙233181802351 ");
-                        dataDic.Add(EnumBookMark.负责人专业.ToString(), "建筑工程");
                         
 
                     }
